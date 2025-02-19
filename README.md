@@ -35,4 +35,10 @@ Example questions you can ask:
 - Explain the architecture of this project
 - What dependencies does this project use?
 
+## Average cost per question
+
+<img src="/docs//images//usage.png" alt="Average cost per question" />
+
 Type 'exit' to quit the chat.
+
+To know more about the project, visit the [documentation](/docs/README.md)
