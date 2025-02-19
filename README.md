@@ -4,18 +4,12 @@ A tool that allows you to chat with and ask questions about your codebase using 
 
 ## Setup
 
-1. Create a virtual environment (optional but recommended):
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-```
-
-2. Install the required packages:
+1. Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Create a `.env` file in the project root and add your OpenAI API key:
+2. Create a `.env` file in the project root and add your OpenAI API key:
 ```
 OPENAI_API_KEY=your_api_key_here
 ```
