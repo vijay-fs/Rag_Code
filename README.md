@@ -1,4 +1,4 @@
-# Codebase Chat
+# Rag Codebase Chat
 
 A tool that allows you to chat with and ask questions about your codebase using LangChain and OpenAI's LLMs.
 
